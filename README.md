@@ -8,7 +8,7 @@ Demostrar la implementación práctica de soluciones bajo los estándares de **A
 ## 📂 Contenido del Repositorio
 He organizado mis laboratorios en 16 módulos:
 
-* **[Módulos 01-05] Fundamentos y Herramientas:** Bases de la nube, administración de **Linux**, redes y programación con **Python**.
+* **[Módulos 01-05] Fundamentos y Herramientas:** Lanzamiento de instancias EC2, administración de **Linux**, diseño de VPCs seguras, redes y programación con **Python**.
 * **[Módulos 06-11] Datos y Cómputo:** Configuración de **Amazon RDS (SQL Server)**, clústeres de **Amazon Aurora** y despliegue de **Serverless** (AWS Lambda).
 * **[Módulos 12-16] Infraestructura y Operaciones:** Gestión avanzada de VPCs, Almacenamiento (S3), Monitoreo con **CloudWatch** y Automatización con **CloudFormation (IaC)**.
 
