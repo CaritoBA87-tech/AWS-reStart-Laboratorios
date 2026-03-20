@@ -1,6 +1,6 @@
 # ☁️ AWS re/Start: Laboratorios
 
-¡Bienvenido a mi repositorio de laboratorios técnicos! Este espacio documenta mi aprendizaje práctico a través del programa **AWS re/Start**, donde he desarrollado habilidades sólidas en la administración de infraestructura en la nube, seguridad y automatización.
+¡Bienvenido a mi repositorio de laboratorios técnicos! Este espacio documenta mi aprendizaje práctico a través del programa **AWS re/Start y Morris & Opazo**, donde he desarrollado habilidades sólidas en la administración de infraestructura en la nube, seguridad y automatización.
 
 ## 🚀 Objetivo del Portafolio
 Demostrar la implementación práctica de soluciones bajo los estándares de **Amazon Web Services**, utilizando servicios para construir arquitecturas escalables, seguras y eficientes.
