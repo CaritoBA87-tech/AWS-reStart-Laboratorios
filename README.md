@@ -17,4 +17,4 @@ He organizado mis laboratorios en 16 módulos:
 * **AWS re/Start Graduate (Marzo 2026)**
 
 ---
-*Estoy en búsqueda activa de oportunidades como **Cloud Developer**. Si te interesa mi perfil, puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/carolina-bolayna-alvarez-b475b4ba).*
+*Estoy en búsqueda activa de oportunidades como **Desarrollador full-stack**. Si te interesa mi perfil, puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/carolina-bolayna-alvarez-b475b4ba).*
