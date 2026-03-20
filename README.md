@@ -1,2 +1,20 @@
-# AWS-reStart-Laboratorios
-Laboratorios del programa AWS re/Start y Morris &amp; Opazo (2026)
+# ☁️ AWS re/Start: Laboratorios
+
+¡Bienvenido a mi repositorio de laboratorios técnicos! Este espacio documenta mi aprendizaje práctico a través del programa **AWS re/Start**, donde he desarrollado habilidades sólidas en la administración de infraestructura en la nube, seguridad y automatización.
+
+## 🚀 Objetivo del Portafolio
+Demostrar la implementación práctica de soluciones bajo los estándares de **Amazon Web Services**, utilizando servicios para construir arquitecturas escalables, seguras y eficientes.
+
+## 📂 Contenido del Repositorio
+He organizado mis laboratorios en 16 módulos:
+
+* **[Módulos 01-05] Fundamentos y Herramientas:** Bases de la nube, administración de **Linux**, redes y programación con **Python**.
+* **[Módulos 06-11] Datos y Cómputo:** Configuración de **Amazon RDS (SQL Server)**, clústeres de **Amazon Aurora** y despliegue de **Serverless** (Lambda/Containers).
+* **[Módulos 12-16] Infraestructura y Operaciones:** Gestión avanzada de VPCs, Almacenamiento (S3), Monitoreo con **CloudWatch** y Automatización con **CloudFormation (IaC)**.
+
+## 🏆 Certificación y Logros
+* **AWS Certified Cloud Practitioner**
+* **AWS re/Start Graduate (Marzo 2026)**
+
+---
+*Estoy en búsqueda activa de oportunidades como **Cloud Developer**. Si te interesa mi perfil, puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/carolina-bolayna-alvarez-b475b4ba).*
